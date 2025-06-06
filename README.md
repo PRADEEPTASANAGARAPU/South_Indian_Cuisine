@@ -29,8 +29,8 @@ This repository is your go-to guide for classic South Indian dishes, featuring e
 ## 🛠️ Tools & Formats
 
 - 📄 Markdown for clear recipe documentation  
-- 📸 (Optional) Images or videos to guide you visually  
-- 🧮 (Optional) Nutritional info or recipe scaling scripts
+- 📸 Images to guide you visually  
+- 🧮 Nutritional info of the recipe
 
 ---
 
